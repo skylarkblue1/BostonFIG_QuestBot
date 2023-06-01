@@ -1,0 +1,14 @@
+{
+  "name": "bfig-bot",
+  "version": "1.0.0",
+  "description": "Custom bot for the BostonFIG discord server",
+  "main": "index.js",
+  "author": "Sky",
+  "license": "GPL-3.0 license",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
+}
