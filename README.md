@@ -1,5 +1,5 @@
 # BostonFIG_QuestBot
-Bot for BostonFIG's quests
+Discord Bot for BostonFIG's quests
 
 This bot is for use with the quests ran by [BostonFIG](https://www.bostonfig.com/fest-homepage/). This repo will not be updated until after each quest is finished due to potential spoilers.
 
